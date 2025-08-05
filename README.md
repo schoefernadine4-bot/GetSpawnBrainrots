@@ -1,2 +1,2 @@
 # GetSpawnBrainrots
-brainrotsspawn
+brainrotsspawn lavaca surtunita
